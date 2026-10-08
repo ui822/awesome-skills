@@ -20,6 +20,8 @@
 | tts | 文本转语音，做语音消息、播客片段 | Muse 内置 |
 | generate_podcast | 多人声播客 / 简报，输出 MP3 | Muse 内置 |
 | image_search | 按关键词搜图，找配图和视觉参考 | Muse 内置 |
+| fish_audio | Fish Audio TTS：官网 fish.audio，免费模型 s2.1-pro-free（$0，免费至 2026-11-30）；实测好用的 5 个中文音色：AD学姐（7f92f8afb8ec43bf81429cc1c9199cb1）、贾小军（80cf680e668c44fc8d5795f80d903f7a）、温柔动听女声（faccba1a8ac54016bcfc02761285e67f）、宣传片大气浑厚（dd43b30d04d9446a94ebe41f301229b5）、女大学生（5c353fdb312f4888836a9a5680099ef0） | https://fish.audio |
+
 
 ## 🌐 信息与效率
 
