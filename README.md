@@ -1,6 +1,7 @@
 # ⭐ Support This Project
 
 
+
 如果这个项目帮你找到了好用的 AI 技能，欢迎点一个 ⭐ Star 支持！
 
 
@@ -37,6 +38,11 @@
 | openmontage | 第一个开源 agentic 视频生产系统：把 AI 编程助手（Claude Code/Cursor 等）变成完整视频工作室，一句话描述就自动完成调研、写脚本、生成素材、剪辑合成；可粘贴参考视频反向拆解再创作；纯免费素材流程或 AI 生成（Veo/Kling），
 60 秒短片成本低至 $1.33；65k star，AGPLv3 | https://github.com/calesthio/OpenMontage |
 | openmontage-muse | OpenMontage 的 Muse 适配版：自带视频生成做片段 + Fish Audio 免费配音 + ffmpeg 合成，跑完整视频生产管线，零 key 零费用；配音前可选 5 个热门音色 | https://github.com/ui822/openmontage-muse |
+| hyperframes | 一句话生成动效视频：HTML/CSS/JS 动画渲染成 MP4，产品介绍/动态海报/知识视频/PPT 风；59k star，HeyGen 出品（商用前看 license） | https://github.com/heygen-com/hyperframes |
+| browser-video-recording | 自动录制浏览器操作演示视频（鼠标移动/点击/跟随缩放），做 AI 工具教程、产品 Walkthrough | https://github.com/MengTo/Skills/blob/main/agent-skills/codex/browser-video-recording/SKILL.md |
+| agent-caption | 本地自动识别人声、对齐时间轴并烧录字幕（WhisperX，100% 本地，MIT 协议） | https://github.com/ahkamboh/agent-caption |
+
+
 
 
 
