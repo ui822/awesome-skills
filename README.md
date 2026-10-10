@@ -41,6 +41,8 @@
 | hyperframes | 一句话生成动效视频：HTML/CSS/JS 动画渲染成 MP4，产品介绍/动态海报/知识视频/PPT 风；59k star，HeyGen 出品（商用前看 license） | https://github.com/heygen-com/hyperframes |
 | browser-video-recording | 自动录制浏览器操作演示视频（鼠标移动/点击/跟随缩放），做 AI 工具教程、产品 Walkthrough | https://github.com/MengTo/Skills/blob/main/agent-skills/codex/browser-video-recording/SKILL.md |
 | agent-caption | 本地自动识别人声、对齐时间轴并烧录字幕（WhisperX，100% 本地，MIT 协议） | https://github.com/ahkamboh/agent-caption |
+| cy-carousel | 给一个选题，查证、找素材、排版、检查、打包，交付封面+10 页 1440×1920 图文轮播；236 star，MIT 协议 | https://github.com/chengyi-ai/cy-carousel-skill |
+
 
 
 
