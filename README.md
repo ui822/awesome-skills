@@ -58,6 +58,7 @@
 | 名称 | 简介 | 获取 |
 |---|---|---|
 | feishu-bridge | 把飞书企业自建应用机器人桥接到 AI Agent：长连接收消息、附件双向收发、进程保活、整机重启恢复 | https://github.com/ui822/feishu-bridge |
+| github-browser-ops | AI Agent 用浏览器操作 GitHub 仓库的标准流程：建库、传文件、改 README（无写权限 App 的写路径），含审核铁律与 8 个坑点 | https://github.com/ui822/github-browser-ops |
 
 ## 🚀 AI 实战工作流
 
