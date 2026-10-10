@@ -1,7 +1,6 @@
 # ⭐ Support This Project
 
 
-
 如果这个项目帮你找到了好用的 AI 技能，欢迎点一个 ⭐ Star 支持！
 
 
@@ -59,3 +58,15 @@
 | 名称 | 简介 | 获取 |
 |---|---|---|
 | feishu-bridge | 把飞书企业自建应用机器人桥接到 AI Agent：长连接收消息、附件双向收发、进程保活、整机重启恢复 | https://github.com/ui822/feishu-bridge |
+
+## 🚀 AI 实战工作流
+
+> 以下为亲测跑通的工作流教程（非可安装 skill），来源 [@AI_DVD6](https://x.com/AI_DVD6)。
+
+| 名称 | 简介 | 获取 |
+|---|---|---|
+| 英文长视频→中文90秒精华 | Codex+HyperFrames：英文长视频自动剪成中文 90 秒精华，二创管线 | https://x.com/AI_DVD6/status/2102562340151378351 |
+| 热点新闻事件拆解动画 | 一句话新闻→带配音、字幕、音效的时间线动画 | https://x.com/AI_DVD6/status/2108318794695467503 |
+| 儿童科普短剧 | 零基础 90 分钟生成儿童科普短剧：Claude 写剧本 + Muse 出视频 | https://x.com/AI_DVD6/status/2106718752624541784 |
+| 35秒中文短剧 | 纯小白快速做出 35 秒中文短剧 | https://x.com/AI_DVD6/status/2103444180861178199 |
+| Muse 用法案例库 | 1080 个 Muse 用法案例，每条有出处和可复制提示词 | https://x.com/AI_DVD6/status/2104379795761205451 |
